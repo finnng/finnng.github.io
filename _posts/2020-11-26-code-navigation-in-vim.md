@@ -12,7 +12,7 @@ By showing the relative number, I now easier move to the line I want, e.g.,
 - Move up 10 lines: `10k`
 - Move down 15 lines `15j`
 
-Then jump to the expected work by `f` and 't`, jump backward by `F` and `T`. For example, assume the cursor is at the beginning of this line, I want to jump to the second character `j` I press `fj;`
+Then jump to the expected work by `f` and `t`, jump backward by `F` and `T`. For example, assume the cursor is at the beginning of this line, I want to jump to the second character `j` I press `fj;`
 
 It still not so efficient, but I'm good with it for a year.
 
