@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Code navigation in Vim"
+date:   2020-11-26 20:52:33 +0700
+categories: blog
+---
+
 # Code navigation in Vim
 
 Learn to navigate the code efficiently is a crucial part of being a developer. Before I use Vim, I'm was panic whenever someone approaches my computer and watch me write the code, even when it was a pair programming session. The most painful part is code navigation. it took me a while to navigate to the position I want to edit the code, searching things, find and replace. After all, I still can perform all those actions, but it was painful and unconfident.
